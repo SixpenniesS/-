@@ -1,0 +1,40 @@
+.box {
+    /* margin-top: 12px; */
+    position: relative;
+    margin: 12px auto;
+    width: 1400px;
+    height: 680px;
+    /* background-color: pink; */
+}
+.box circle{
+    cursor: pointer;
+}
+
+.box text{
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.box ul a {
+    position: absolute;
+    width: 77px;
+    height: 32px;
+    /* background-color: pink; */
+    opacity: 0;
+}
+
+.box .popover table {
+    width: 200px;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+  
+  
+  
+  
+  
